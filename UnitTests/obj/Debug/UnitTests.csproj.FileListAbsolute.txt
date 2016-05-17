@@ -1,0 +1,10 @@
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\AccountData\1.bad
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\AccountData\2.bad
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\CustomerProcessor.dll
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\FileParser.dll
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\bin\Debug\CustomerProcessor.pdb
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Sony\Downloads\devtest-master\devtest-master\UnitTests\obj\Debug\UnitTests.pdb
